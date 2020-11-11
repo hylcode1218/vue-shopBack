@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+    src: url('//at.alicdn.com/t/font_2193583_m3e3lxr1qgl.eot?t=1604993552053'); /* IE9 */
+    src: url('//at.alicdn.com/t/font_2193583_m3e3lxr1qgl.eot?t=1604993552053#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANYAAsAAAAAB3wAAAMLAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCZII9ATYCJAMMCwgABCAFhG0HNhuDBhHVmz/IfhzGMck6+zAib6I9mn9fg4d//8r7MLN/JVYBuFQA/Q3FKh00iFmmzJkAWNrWW6KkhYRF6lvXfrIThbG3/7mc3jXE5wfKZa6BR70A44AC2hvXFC2QEuSGsQta4mYIwIMYshDdevQbhoHG7CUAMXbUiAaMjBuNZjEDgbViokasx4IhV8gHsC74vPhdIAyQWBTmwEGt3Zvp9K3g23hlukyqPQTOdEaATQMFZAEaRG2luRwVhbNQeKhCrZWCFY1ATuVzuQK2JrRaf3ggESCsmNleAKShiIRvBQ47kYyH3Kv+pQLAChjACGD7BK8GjdbZXl7e7lq7BRoBI2y2YXueFvteex57sCA0xOEY8KjP1pC0iLTNJ5Jv2Idn77iAeTzIZ+vJEKezrK6l0W4fHhkcjmpbWBoy006bbYpgzOpn4SF9VeMhZ8/79ni8WnyUb70nHiZQeKMub90DVW1dOvGKOT2EJZTEdh0z62vCmMP5gcGRfDu71a9p6FrT6X9wqHfzhysfhnnJbjMvDM+60LlBtC2U9bKhra3BFUjKhIL6QmKDZbY8eEhCwSysni0TwSyfAQux2UpFxcyZFa5AUAZsWGraT9ptwy29eg4e7Ey0lLJgAZlkDCs1S4nDtKlS9V++gy6z3a3zbffP8NQAvH7S5BtMcJkaZQIGEjpz/gKnY5nWeKZGaYXtsA2LonfKiQTI5DZcmPYA3g2XB99pVGAQnIDEjWhQGCShmpgFFjwpAisGHcGDTHpO9ySQySiEdgcyWAJA4Mc5kPhwDxR+PEQ18S1YCOEvWPETCjwoFYELepIiSO9xnIyCUYP8g1e1GFvHTZh7Q/tOgtK8gPRCWr0PhrbPx65YkKYYsn7syGzAUM1wAdthShVmqgEVt455nrrOVF2oVTVvGroSCkYN8g9e1WK86twU3n9D+06CGjBV+hfS6uuHoe07oFdx6YS5lV3Wjx2ZDRiqGS7AiMkKV5ir2wVU3LoBwXnqUCXTVdwuL83vtwbwwFxNCSmU0FhGtBCWQx6VxWYDAA==') format('woff2'),
+    url('//at.alicdn.com/t/font_2193583_m3e3lxr1qgl.woff?t=1604993552053') format('woff'),
+    url('//at.alicdn.com/t/font_2193583_m3e3lxr1qgl.ttf?t=1604993552053') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('//at.alicdn.com/t/font_2193583_m3e3lxr1qgl.svg?t=1604993552053#iconfont') format('svg'); /* iOS 4.1- */
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-geren:before {
+    content: "\e66e";
+  }
+  
+  .icon-mima:before {
+    content: "\e632";
+  }
+  
