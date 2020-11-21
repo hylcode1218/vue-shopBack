@@ -60,7 +60,6 @@ export default {
         //点击登录不能直接提交，要进行表单的预验证
         login(){
             this.$refs.loginFormRef.validate(async (valid)=>{
-                console.log(valid) //验证通过 valid为true
                 if(!valid) return;
                 //验证通过发起登录请求 this.$http.post返回值是promise async进行简化
                 var result=await this.$http.post('login',this.loginForm)
