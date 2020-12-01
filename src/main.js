@@ -8,6 +8,9 @@ import ElementUI  from 'element-ui'
 import "./assets/css/global.css"
 import "./assets/css/iconfont.css"
 
+//引入第三方插件
+import TreeTable from "vue-table-with-tree-grid"
+
 //数据请求
 import axios from 'axios'
 //根路径
@@ -21,6 +24,8 @@ axios.interceptors.request.use((config)=>{
 Vue.prototype.$http=axios
 
 Vue.use(ElementUI)
+
+Vue.component('tree-table', TreeTable)
 
 Vue.config.productionTip = false
 
