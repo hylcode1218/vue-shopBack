@@ -51,6 +51,8 @@ export default {
             }
         }
     },
+    created(){
+    },
     methods: {
         resetLogin(){
             //重置登录表单

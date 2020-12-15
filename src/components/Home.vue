@@ -39,7 +39,8 @@
             </el-submenu>
           </el-menu>
         </el-aside>
-        <el-main> 
+        <el-main>
+            <!-- 主体区域 -->
             <router-view></router-view>
         </el-main>
       </el-container>
